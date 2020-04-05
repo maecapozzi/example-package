@@ -1,0 +1,15 @@
+{
+  "name": "<@name-of-monorepo>/example-package",
+  "version": "1.0.0",
+  "description": "A package that can be copied to help contributors get started creating new packages.",
+  "license": "UNLICENSED",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "",
+    "jest": "",
+    "lint": "'",
+    "test": "",
+    "typecheck": "tsc --noEmit"
+  }
+}
